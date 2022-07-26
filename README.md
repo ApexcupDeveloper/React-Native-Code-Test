@@ -24,6 +24,7 @@ Well detailed storybook is plus.
 Please refer the below documentation.
 https://www.superheroapi.com/
 
-##Contact Info
+## Contact Info
 Please feel free to contact me if you have any questions.
+
 email: mike@f5imagine.com
